@@ -12,8 +12,6 @@ This repository contains the analysis code for a study developing a multistage p
 ├── Notebooks/
 │   ├── 01_baseline_and_tuned_models.ipynb
 │   └── 02_domain_ensemble_metalearner.ipynb
-├── artifacts/
-│   └── (generated outputs: model files, predictions, SHAP values, plots)
 └── README.md
 ```
 
