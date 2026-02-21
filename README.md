@@ -6,8 +6,6 @@ An interpretable, domain-based stacked ensemble model for predicting postoperati
 
 This repository contains the analysis code for a study developing a multistage prediction model for postoperative delirium in adults undergoing non-cardiac, non-obstetric surgery. The framework organises 74 perioperative predictors into three clinician-defined domains (patient-related, surgery-related, and anaesthetic-related), trains domain-specific LightGBM base learners, and combines their predictions through a logistic regression meta-learner.
 
-The manuscript has been submitted to the **British Journal of Anaesthesia**.
-
 ## Repository Structure
 
 ```
